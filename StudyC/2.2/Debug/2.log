@@ -1,0 +1,10 @@
+﻿  2.2.c
+  2.5.c
+F:\C\StudyC\2\2.5.c(3,6): warning C4101: 'num_apples': unreferenced local variable
+F:\C\StudyC\2\2.5.c(5,6): warning C4101: 'X': unreferenced local variable
+  2.6.c
+F:\C\StudyC\2\2.6.c(3,8): warning C4013: 'printf' undefined; assuming extern returning int
+  Generating Code...
+2.5.obj : error LNK2005: _main already defined in 2.2.obj
+2.6.obj : error LNK2005: _main already defined in 2.2.obj
+F:\C\StudyC\Debug\2.exe : fatal error LNK1169: one or more multiply defined symbols found
